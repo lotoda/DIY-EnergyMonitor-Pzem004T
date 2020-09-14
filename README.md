@@ -10,10 +10,11 @@
 -	Tần số (Hz) - Frequency
 -	Hệ số CosPi (PF) = PF
 
-Giao diện Web trên ESP8266 có thể truy cập bằng IP hoặc địa chỉ: lotodaXXXX.local/
+### Giao diện Web trên ESP8266 có thể truy cập bằng IP hoặc địa chỉ: lotodaXXXX.local/
 <img src="https://github.com/lotoda/DIY-EnergyMonitor-Pzem004T/blob/master/1.WebUI_monitoring.PNG">
-Giao diện trên LOTODA Mobile App như sau:
-<img src="https://github.com/lotoda/DIY-EnergyMonitor-Pzem004T/blob/master/3.Monitoring_on_MobileApp.jpg">
+
+### Giao diện trên LOTODA Mobile App như sau:
+<img src="https://github.com/lotoda/DIY-EnergyMonitor-Pzem004T/blob/master/3.Monitoring_on_MobileApp.jpg" width="200" height="400">
 
 # Sơ đồ đấu nối
  | ESP8266 | PZEM | Nút reset |
