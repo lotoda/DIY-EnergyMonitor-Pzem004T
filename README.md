@@ -32,8 +32,7 @@ Giao diện trên LOTODA Mobile App như sau:
 2. Upload SPIFFS file
 <img src="https://github.com/lotoda/DIY-EnergyMonitor-Pzem004T/blob/master/Upload_spiffs_02of02.PNG">
 
-### Bước 2:
-## 1.	Khởi động và kết nối wifi
+### Bước 2: Khởi động và kết nối wifi
 -	Khi bắt đầu cấp nguồn sau 15~30 giây nếu chưa có kết nối wifi được thiết lập. Thiết bị tự động phát wifi “lotodaXXXX” trong đó XXXX là ID của thiết bị bạn.
 -	Người dùng sử dụng máy tính hoặc điện thoại di động thực hiện kết nối đến Wifi của thiết bị mà không cần mật khẩu.
 -	Sau khi kết nối thành công, truy cập đến địa chỉ: “http://192.168.4.1” để vào trang web của thiết bị.
