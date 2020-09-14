@@ -45,6 +45,6 @@
 <img src="https://github.com/lotoda/DIY-EnergyMonitor-Pzem004T/blob/master/2.WebUI_MQTT_config.PNG">
 
 ### Bước 4: Thiết lập cấu hình cho ứng dụng LOTODA Mobile App
--	Bạn xem chi tiết các video hướng dẫn để đăng ký (và nhận User ID key & Pass ID key) và sử dụng IoT LOTODA tại website: http://lotoda.vn
+-	Bạn xem chi tiết các video hướng dẫn để đăng ký (và nhận User ID key & Pass ID key) và sử dụng IoT LOTODA tại website: https://lotoda.vn
 
 # Done, Chúc bạn thành công! Thank you!
