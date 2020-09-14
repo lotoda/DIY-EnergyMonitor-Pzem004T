@@ -14,7 +14,7 @@
 <img src="https://github.com/lotoda/DIY-EnergyMonitor-Pzem004T/blob/master/1.WebUI_monitoring.PNG">
 
 ### Giao diện trên LOTODA Mobile App như sau:
-<img src="https://github.com/lotoda/DIY-EnergyMonitor-Pzem004T/blob/master/3.Monitoring_on_MobileApp.jpg" width="200" height="400">
+<img src="https://github.com/lotoda/DIY-EnergyMonitor-Pzem004T/blob/master/3.Monitoring_on_MobileApp.jpg" width="400" height="600">
 
 # Sơ đồ đấu nối
  | ESP8266 | PZEM | Nút reset |
