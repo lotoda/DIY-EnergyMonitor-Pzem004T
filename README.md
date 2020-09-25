@@ -21,7 +21,7 @@
  |-----------|-----------|-----------|
  | GPIO 5 | TX |  |
  | GPIO 4 | RX |  |
- | GPIO 0 |  | X |
+ | GPIO 0 |  | Pullup +3.3V(R=4,7K) |
  | GND | GND | GND |
  | VCC | VCC |  |
  
